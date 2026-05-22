@@ -1,6 +1,9 @@
 # Fitness-Management-System
 The Fitness Management System project is technically feasible because it relies on technologies that are widely used, well-documented, and easily available for student and professional developers. The frontend is planned using HTML5, CSS3, and JavaScript, which ensures responsiveness, cross-browser compatibility, and an engaging user experience. These technologies allow the website to adapt seamlessly across devices such as desktops, laptops, tablets, and smartphones. For the backend, Python frameworks such as Flask or Django can be implemented. Both frameworks are open-source, lightweight, and highly suitable for academic-level projects while still being powerful enough for industry-level applications. Python’s vast ecosystem of libraries enables integration of features such as data handling, form submissions, and server-side validation efficiently. Development tools such as VS Code, Sublime Text, and Chrome DevTools provide powerful debugging, version control integration, and rapid prototyping, making the development process smoother. Hosting options like GitHub Pages or Netlify allow developers to deploy projects easily without requiring costly infrastructure. Hardware requirements such as Intel Core i3 processor, 8 GB RAM, and operating systems like Windows 10/11, macOS, or Linux are sufficient for both development and testing.
+
 ![image_alt](https://github.com/shindekrutika/Fitness-Management-System/blob/749a5644abf597b572d8f4f365d398e06fa0abd7/Screenshot%20(77).png)
+
+![image_alt]https://github.com/shindekrutika/Fitness-Management-System/blob/23e09ec91b35543b484552aeeffb5abb01089194/Screenshot%20(80).png)
 
 # OBJECTIVES
 1.To automate member management – Maintain detailed records of all gym members, including their personal information, membership plans, and fitness goals.
