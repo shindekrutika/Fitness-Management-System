@@ -3,8 +3,6 @@ The Fitness Management System project is technically feasible because it relies 
 
 ![image_alt](https://github.com/shindekrutika/Fitness-Management-System/blob/749a5644abf597b572d8f4f365d398e06fa0abd7/Screenshot%20(77).png)
 
-![image_alt](https://github.com/shindekrutika/Fitness-Management-System/blob/23e09ec91b35543b484552aeeffb5abb01089194/Screenshot%20(80).png)
-
 ![image_alt](https://github.com/shindekrutika/Fitness-Management-System/blob/ce5c9033187212c89c8e6f139ce94f82cb87bb7c/Screenshot%20(83).png)
 
 ![image_alt](https://github.com/shindekrutika/Fitness-Management-System/blob/f54031347bb15f5af3fb8db3231f82fadf782b38/workouts.png)
