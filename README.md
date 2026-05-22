@@ -11,6 +11,8 @@ The Fitness Management System project is technically feasible because it relies 
 
 ![image_alt](https://github.com/shindekrutika/Fitness-Management-System/blob/cf5469baffcea8f673234ca98b722963dfb5b5a3/cardio.png)
 
+![image_alt](https://github.com/shindekrutika/Fitness-Management-System/blob/2ca786d57417ab2bb36abc23113f00856eebefcc/Screenshot%20(93).png)
+
 # OBJECTIVES
 1.To automate member management – Maintain detailed records of all gym members, including their personal information, membership plans, and fitness goals.
 2.To manage trainer and staff details – Store and organize information about trainers, their assigned clients, and their schedules.
